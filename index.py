@@ -12,7 +12,6 @@ app = Flask(__name__)
 
 from sql_function import *
 
-
 #The route() decorator in Flask is used to bind URL to a function
 @app.route('/')
 def welcome():
