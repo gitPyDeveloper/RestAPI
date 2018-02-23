@@ -18,7 +18,6 @@ def func_createUser():
 
 
 
-
 @app.route('/data',methods = ['GET'])
 def func_fetchData():
 
