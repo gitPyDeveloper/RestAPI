@@ -9,3 +9,7 @@ Refer python binary files for windows at,
 
 Install following libraries before proceed,
 <br />pip install flask
+
+Run the index.py file, that will create localhost server.
+<br />On homepage, you can enter name to get new userKey. If existing user, it will return oldKey.
+<br />Use restCall.py to get ticker values passing userKey.
