@@ -11,7 +11,6 @@ logging.basicConfig(stream=sys.stderr, level=logging.DEBUG)
 
 class cl_mySQL_DB():
     
-
     C_HOST_NAME = "localhost"
     C_USER_NAME = "root"
     C_USER_PASSWORD = ""
